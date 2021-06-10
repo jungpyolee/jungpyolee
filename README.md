@@ -13,7 +13,6 @@
    <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp; 
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp; 
   <img src="https://img.shields.io/badge/Express-68A063?style=flat-square&logo=express&logoColor=white"/></a>&nbsp; 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 </p>
 
 <br><br>
