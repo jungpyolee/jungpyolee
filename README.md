@@ -11,8 +11,14 @@
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp; 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a><br/> 
    <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp; 
+   <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=nodejs&logoColor=white"/></a>&nbsp; 
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp; 
-  <img src="https://img.shields.io/badge/Express-68A063?style=flat-square&logo=express&logoColor=white"/></a>&nbsp; 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp; <br/>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp;
+   <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=travisci&logoColor=white"/></a>&nbsp;
+      <img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/></a>&nbsp;
+
+
 </p>
 
 <br><br>
