@@ -14,10 +14,7 @@
    <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp; 
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp; 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp; <br/>
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp;
-   <img src="https://img.shields.io/badge/TravisCI-3EAAAF?style=flat-square&logo=travisci&logoColor=white"/></a>&nbsp;
-      <img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white"/></a>&nbsp;
-
+  
 
 </p>
 
